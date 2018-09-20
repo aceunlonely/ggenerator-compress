@@ -1,0 +1,23 @@
+{
+  "name": "ggenerator-compress",
+  "version": "1.0.0",
+  "description": "compress designed just for gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceunlonely/ggenerator-compress.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aceunlonely/ggenerator-compress/issues"
+  },
+  "homepage": "https://github.com/aceunlonely/ggenerator-compress#readme",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "unzip": "^0.1.11"
+  }
+}
